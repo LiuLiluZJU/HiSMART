@@ -36,6 +36,10 @@ Pulmonary nodule segmentation from the lung computed tomography (CT) scan is a f
 
 ## Usage
 
+- Dataset
+
+  The public datasets can be downloaded from [LUNA16](https://luna16.grand-challenge.org/data/) and [LIDC_IDRI](https://www.cancerimagingarchive.net/nbia-search/?CollectionCriteria=LIDC-IDRI).
+
 - Data loading
 
 ​	You can load the training set, validation set and test set by modifying the file `config_training.py`.
