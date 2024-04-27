@@ -8,7 +8,7 @@ Pulmonary nodule segmentation from the lung computed tomography (CT) scan is a f
 
 
 
-![](/run/user/1000/doc/46d53476/Framework.jpg)
+![](./Framework.jpg)
 
 
 
