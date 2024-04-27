@@ -12,12 +12,6 @@ Pulmonary nodule segmentation from the lung computed tomography (CT) scan is a f
 
 
 
-## Dataset
-
-- [LUNA16](https://luna16.grand-challenge.org/data/)
-
-- [LIDC_IDRI](https://www.cancerimagingarchive.net/nbia-search/?CollectionCriteria=LIDC-IDRI)
-
 ## Prerequisite
 
 - Python 3.8
